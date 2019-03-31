@@ -1,4 +1,5 @@
-* dijkstra
+##  algorithm and data structure
+* dijkstra[!https://github.com/Gloria971111/Notes/blob/master/algorithm%20and%20data%20structure/dijkstra.cpp]
 
 * 二叉搜索树
 已知一个序列判断是否是二叉搜索树
