@@ -2,6 +2,9 @@
 using namespace std;
 #include<algorithm> 
 
+//https://pintia.cn/problem-sets/994805046380707840/problems/994805068539215872
+/*并查集关键：find join函数 father数组*/ 
+
 typedef struct Node{
 	int num;
 	int fa,mo;
